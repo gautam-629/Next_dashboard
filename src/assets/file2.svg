@@ -1,0 +1,11 @@
+<!--
+  - /*
+  -  * Copyright (c) 2023 TechAxis.
+  -  * All rights reserved.
+  -  * Redistribution and use in source and binary forms, with or without modification, are not permitted.
+  -  */
+  -->
+
+<svg width="15" height="20" viewBox="0 0 15 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.33325 1.66667H2.49992C2.05789 1.66667 1.63397 1.84227 1.32141 2.15483C1.00885 2.46739 0.833252 2.89131 0.833252 3.33334V16.6667C0.833252 17.1087 1.00885 17.5326 1.32141 17.8452C1.63397 18.1577 2.05789 18.3333 2.49992 18.3333H12.4999C12.9419 18.3333 13.3659 18.1577 13.6784 17.8452C13.991 17.5326 14.1666 17.1087 14.1666 16.6667V7.50001L8.33325 1.66667Z" stroke="#147AA6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

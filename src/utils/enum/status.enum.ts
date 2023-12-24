@@ -1,0 +1,18 @@
+export enum STATUS {
+  DRAFT = 0,
+  PENDING = 1,
+  PUBLISHED = 2,
+  INACTIVE = 3,
+  DELETED = 4,
+  BLOCKED = 5,
+}
+
+export enum BlogStatusEnum {
+  ACTIVE = 'ACTIVE',
+  DELETED = 'DELETED',
+  DRAFT = 'DRAFT',
+  INACTIVE = 'INACTIVE',
+  SCHEDULED = 'SCHEDULED',
+  ONGOING = 'ONGOING',
+  BLOCKED = 'BLOCKED',
+}

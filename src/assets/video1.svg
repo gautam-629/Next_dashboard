@@ -1,0 +1,19 @@
+<!--
+  - /*
+  -  * Copyright (c) 2023 TechAxis.
+  -  * All rights reserved.
+  -  * Redistribution and use in source and binary forms, with or without modification, are not permitted.
+  -  */
+  -->
+
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5590_113713)">
+<path d="M19.6666 5.83333L13.8333 10L19.6666 14.1667V5.83333Z" stroke="#147AA6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.1666 4.16667H2.99992C2.07944 4.16667 1.33325 4.91286 1.33325 5.83334V14.1667C1.33325 15.0871 2.07944 15.8333 2.99992 15.8333H12.1666C13.0871 15.8333 13.8333 15.0871 13.8333 14.1667V5.83334C13.8333 4.91286 13.0871 4.16667 12.1666 4.16667Z" stroke="#147AA6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_5590_113713">
+<rect width="20" height="20" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>

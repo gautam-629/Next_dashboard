@@ -1,0 +1,9 @@
+*.test.ts
+*.test.js
+**/*/tsconfig.json
+node_modules
+src/serviceWorkerRegistration.ts
+src/setupTests.ts
+src/setupTests.js
+cypress/*/**
+cypress.config.ts
